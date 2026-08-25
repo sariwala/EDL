@@ -1,7 +1,3 @@
-#=====================================
-# Title: Hosts contributed by Steven Black
-# http://stevenblack.com
-
 ad-assets.futurecdn.net
 ck.getcookiestxt.com
 eu1.clevertap-prod.com
