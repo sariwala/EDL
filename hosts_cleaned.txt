@@ -1,2 +1,2 @@
 ad-assets.futurecdn.net
-cnn.com
+*.cnn.com
